@@ -1,0 +1,59 @@
+
+#footer-bio {
+    margin-top: 25px;
+    border-top: thick;
+    border-top-style: dashed;
+    border-top-color: gray;
+    border-width: 3px;
+  }
+  
+  #author-bio {
+    display: inline-block;
+    margin-right: 73px;
+  }
+  
+  #article-footer img {
+    display: inline-block;
+    margin-top: 25px;
+  }
+  
+  #button1 {
+    font-family: "Oswald";
+    background: orange;
+    color: white;
+    padding: 9px 36px;
+    display: inline-block;
+  }
+  
+  #ending-footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: thick;
+    border-top-style: solid;
+    border-top-color: gray;
+    border-width: 1px;
+  }
+  
+  #ending-footer p {
+    text-align: center;
+    margin-left: 280px;
+  }
+  
+  #ending-footer img {
+    margin-top: -18px;
+    margin-left: 397px;
+  }
+
+  #bio-pic {
+    float: left;
+  }
+
+  #button1 {
+    float: right;
+  }
+
+  #small-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
